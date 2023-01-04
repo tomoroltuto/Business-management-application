@@ -55,13 +55,6 @@
 ![スイムレーン図(全体像)](https://user-images.githubusercontent.com/90845405/201112569-0077edd9-1d50-4d6f-8700-4df55ce93f44.jpg)
 
 
-<h2>アクティビティ図(実装する箇所)</h2
-
-全体像の中で赤色の箇所を実装していきたいと思います。
-
-![スイムレーン図(実装箇所)](https://user-images.githubusercontent.com/90845405/201112620-160e8099-f63e-49ea-9cd6-55c6cfbe4d8f.jpg)
-
-
 その上で以下の実装機能をしていきます。
 
 ## 基本機能
