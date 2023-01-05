@@ -88,7 +88,7 @@
 
 <h2>ER図</h2>
 
-![ER図](https://user-images.githubusercontent.com/90845405/210759459-d9d43061-bc9d-47f4-8b3a-b601f701fcb3.jpg)
+![ER図](https://user-images.githubusercontent.com/90845405/210763816-d76e3d3c-2cfb-4155-9ce1-67654dc93a76.jpg)
 
 
 <h2>URL設計書</h2>
