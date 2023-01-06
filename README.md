@@ -112,7 +112,8 @@
 
 # インフラ構成図
 
-![インフラ構造図](https://user-images.githubusercontent.com/90845405/210718605-6e1893b9-e9b7-445a-ac2e-93f08ffb2e36.jpg)
+![インフラ構造図](https://user-images.githubusercontent.com/90845405/210948777-64b3dd15-3067-403b-b5e5-169d0fbd2018.jpg)
+
 
 
 
